@@ -49,3 +49,6 @@ ACL: "Listas de control de acceso". Access Control Lists (ACLs) son mecanismos d
 
 Grupos de seguridad: "Firewall". Los grupos de seguridad son conjuntos de reglas de firewall que controlan el tráfico entrante y saliente hacia las instancias EC2, proporcionando una capa adicional de seguridad.
 
+Auri, Puri y Nuri:Algunos servicios podemos reservarlos según el descuento que queramos. Por ejemplo, si sabemos que vamos a necesitar un servidor durante 3 años, podemos reservarlo y nos saldrá más barato. Esto se aplica a servicios como EC2, RDS y Redshift.
+
+Auri > Puri > Nuri
